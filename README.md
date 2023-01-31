@@ -9,7 +9,7 @@ My name is Danilo and I am computer science student at the Worcester Polytechnic
 
 My portifolio website:
 
-[Portfolio](https://danilo-correia-portifolio.vercel.app/)
+([Portfolio](https://danilo-correia-portfolio.vercel.app/))
 
 Feel free to have a look at some of my projects and connect with me!
 
