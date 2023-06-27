@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Danilo and I am computer science student at the Worcester Polytechnic Institute. My interests are:
+My name is Danilo, and I am a software engineer. My interests are:
 
 - 🧑‍💻 Software Engineering
 - ⚛️ React
