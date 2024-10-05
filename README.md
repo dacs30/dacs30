@@ -7,6 +7,12 @@ My name is Danilo, and I am a software engineer. My interests are:
 - 🤖 Machine Learning
 - 💽 Databases
 
+ <div>
+  <a href="https://github.com/dacs30">
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dacs30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacs30&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 My portifolio website:
 
 ([Portfolio](https://danilo-correia-portfolio.vercel.app/))
